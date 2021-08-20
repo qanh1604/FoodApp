@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "607c3bd1e6b97f4fbc2b59bf"
+  },
+  "nameProduct": "Pho",
+  "number": 12,
+  "dateSell": {
+    "$date": "2021-05-03T00:00:00Z"
+  },
+  "description": "Pho ba",
+  "img": "pho.jpg",
+  "idCategory": {
+    "$oid": "607d3fdb1fb84955a42efc27"
+  },
+  "price": 30000
+},{
+  "_id": {
+    "$oid": "607d69f059835e4e14b69808"
+  },
+  "nameProduct": "Banh mi",
+  "price": 10000,
+  "number": 11,
+  "dateSell": {
+    "$date": "2021-04-19T00:00:00Z"
+  },
+  "description": "blala",
+  "img": "banhmi.jpg",
+  "idCategory": {
+    "$oid": "607c3b334f645f401f5a4b46"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609e72388557c8079cc9cb40"
+  },
+  "nameProduct": "Coffee",
+  "price": 15000,
+  "number": 10,
+  "dateSell": {
+    "$date": "2021-05-14T00:00:00Z"
+  },
+  "description": "coffee",
+  "img": "coffee.jpg",
+  "idCategory": {
+    "$oid": "607c3b6ee6b97f4fbc2b59bd"
+  },
+  "__v": 0
+}]

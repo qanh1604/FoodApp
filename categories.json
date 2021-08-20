@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "607c3b334f645f401f5a4b46"
+  },
+  "name": "Food",
+  "icon": "rice-bowl.png"
+},{
+  "_id": {
+    "$oid": "607c3b6ee6b97f4fbc2b59bd"
+  },
+  "name": "Drink",
+  "icon": "drink.png"
+},{
+  "_id": {
+    "$oid": "607c3b84e6b97f4fbc2b59be"
+  },
+  "name": "Fast Food",
+  "icon": "hamburger.png"
+},{
+  "_id": {
+    "$oid": "607d3f621fb84955a42efc24"
+  },
+  "name": "Pizza",
+  "icon": "pizza.png"
+},{
+  "_id": {
+    "$oid": "607d3f791fb84955a42efc25"
+  },
+  "name": "Salad",
+  "icon": "salad.png"
+},{
+  "_id": {
+    "$oid": "607d3f881fb84955a42efc26"
+  },
+  "name": "Donut",
+  "icon": "donut.png"
+},{
+  "_id": {
+    "$oid": "607d3fdb1fb84955a42efc27"
+  },
+  "name": "Noodle",
+  "icon": "noodle.png"
+},{
+  "_id": {
+    "$oid": "607d3ffa1fb84955a42efc28"
+  },
+  "name": "Sushi",
+  "icon": "sushi.png"
+}]
